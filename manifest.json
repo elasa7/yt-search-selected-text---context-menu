@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "YouTube Search Extension",
+  "version": "1.0",
+  "description": "Search selected text on YouTube",
+  "permissions": ["contextMenus", "activeTab"],
+  "icons": {
+    "48": "fav/icon48.png", // 48x48 pixel icon
+    "128": "fav/icon128.png" // 128x128 pixel icon
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
