@@ -13,9 +13,11 @@ This Chrome extension adds a context menu option that allows users to search the
 
 ```bash
 git clone https://github.com/your-username/youtube-search-context-menu.git
-
-
-Open Chrome and go to chrome://extensions/.
+```
+Open Chrome and go to 
+```bash
+chrome://extensions/
+```
 Enable "Developer mode" at the top right.
 Click on "Load unpacked" and select the directory where you cloned the repository.
 The extension is now installed and ready to use.
@@ -26,5 +28,5 @@ Right-click on the selected text.
 Choose the "Search on YouTube" option from the context menu.
 A new tab will open with the YouTube search results for the selected text.
 
-#Contributing
+# Contributing
 If you'd like to contribute to this project, please follow the standard GitHub fork and pull request process.
