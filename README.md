@@ -22,7 +22,7 @@ Enable "Developer mode" at the top right.
 Click on "Load unpacked" and select the directory where you cloned the repository.
 The extension is now installed and ready to use.
 
-##update
+## update
 ```bash
 chrome://flags/
 ```
