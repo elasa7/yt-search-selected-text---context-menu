@@ -22,6 +22,14 @@ Enable "Developer mode" at the top right.
 Click on "Load unpacked" and select the directory where you cloned the repository.
 The extension is now installed and ready to use.
 
+##update
+```bash
+chrome://flags/
+```
+enable
+Allow legacy extension manifest versions
+
+
 # Usage
 Select text on any webpage.
 Right-click on the selected text.
